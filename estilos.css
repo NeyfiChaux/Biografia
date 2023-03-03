@@ -2,7 +2,7 @@
     background-color: blueviolet;
     display: flex;
     margin: 0 auto;
-    width: 80%;
+    width: 60%;
 }
 
 .izquierda {
@@ -12,13 +12,19 @@
     font-family: Arial, Helvetica, sans-serif;
     margin: 10px;
     padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
 
 }
 
 .derecha {
 
     width: 40%;
-    background-color: red;
+    background-color: rgb(255, 0, 242);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-
+    margin: 10px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
