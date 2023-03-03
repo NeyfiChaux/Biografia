@@ -1,0 +1,23 @@
+.contenedor {
+    background-color: blueviolet;
+    display: flex;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.izquierda {
+
+    width: 40%;
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    padding: 10px;
+
+}
+
+.derecha {
+
+    width: 40%;
+    background-color: red;
+
+}
